@@ -2,8 +2,8 @@
 
 # MATLAB Tutorial with Quadrotor Modeling
 
-If you are new to MATLAB, here are some tutorials to help you get started. 
-The tutorial begins with the Introduction and basics of MATLAB and moves to advanced MATLAB tutorials.
+If you are new to MATLAB, here are some tutorials to help you get started
+The tutorial begins with the introduction and basics of MATLAB and then moves to advanced tutorials
 
 # Table of Contents
    * [MATLAB variables](https://www.youtube.com/watch?v=L-Y8Q--I2YM&feature=youtu.be)
